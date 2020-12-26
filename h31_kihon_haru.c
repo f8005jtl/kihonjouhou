@@ -68,16 +68,3 @@ int main(){
     printf("\n");
   }
 }
-
-
-
-
-
-/*
-void Swap(int *x,int *y){
-  int temp;
-  temp = *x;// xが指す変数の値を退避
-　*x = *y;// yが指す変数の値をxが指す変数に代入
-　*y = temp;// tempに退避しておいたxが指す変数の値をyが指す変数に代入
-}
-*/
